@@ -1,0 +1,28 @@
+# General
+.DS_Store
+.fseventsd
+.Trashes
+
+# Logs
+logs
+*.log
+
+# Dependency directories
+node_modules
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+
+# Generated output
+dist
+
+# Editor
+.vscode
+.idea
+
+# dotenv environment variables file
+.env

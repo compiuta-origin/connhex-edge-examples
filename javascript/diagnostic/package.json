@@ -1,0 +1,15 @@
+{
+  "name": "connhex-edge-diagnostic-service",
+  "version": "1.0.0",
+  "description": "Connhex Edge diagnostic service example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nats": "^2.4.0"
+  }
+}
