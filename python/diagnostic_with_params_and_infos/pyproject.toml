@@ -1,0 +1,7 @@
+[project]
+name = "connhex-edge-diagnostic-with-params-and-infos-service"
+version = "1.0.0"
+description = "Connhex Edge Diagnostic with params and infos service example"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = ["nats-py>=2.9.0"]
